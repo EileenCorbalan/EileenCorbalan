@@ -24,7 +24,7 @@ Let's connect and embark on a journey of innovation together!
 Como futura Ingeniera Industrial, mis intereses abarcan varios campos, incluyendo la ciencia de datos, la
 eficiencia energética y de recursos renovables, fabricación y planificación de la producción.
 
-💻 Mis conocimientos técnicos incluyen Python, SQL y Looker Studio. Actualmente estoy incorporando conocimientos sobre GIT y Machine Learning. 
+💻 Mis habilidades técnicas incluyen Python, SQL y Looker Studio. Actualmente estoy incorporando conocimientos sobre GIT y Machine Learning. 
 Creo en el poder del aprendizaje continuo y disfruto desafiándome con proyectos emocionantes.
 
 👩🏼‍💼 Mis experiencias laborales anteriores me nutrieron de habilidades blandas como el trabajo en equipo, la resolución de problemas, la autonomía y el pensamiento analítico. 
