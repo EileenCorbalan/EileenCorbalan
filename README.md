@@ -30,7 +30,7 @@ Creo en el poder del aprendizaje continuo y disfruto desafiándome con proyectos
 👩🏼‍💼 Mis experiencias laborales anteriores me nutrieron de habilidades blandas como el trabajo en equipo, la resolución de problemas, la autonomía y el pensamiento analítico. 
 
 💞️ Busco activamente oportunidades para colaborar en proyectos que puedan tener un impacto positivo en la sociedad.
-Si tienes un proyecto interesante o necesitas ayuda, ¡aquí estoy!
+Si tienes un proyecto interesante o necesitas ayuda, ¡acá estoy!
 
 🏋🏼‍♀️ Creo que es esencial equilibrar la vida laboral y personal, por lo que reservo parte de mi tiempo para cocinar comidas saludables, hacer ejercicio y pasar tiempo con mis seres queridos. 
 
