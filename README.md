@@ -1,8 +1,7 @@
 👋 Hi, I'm @EileenCorbalan!
 
 👀 I am an avid learner and am passionate about exploring the fascinating world of technology. 
-As a future Industrial Engineer, my interests span several fields, including data science, 
-energy and renewable resource efficiency, manufacturing and production planning.
+As a future Industrial Engineer, I am interested in applying data science to various fields, including energy and renewable resource efficiency, manufacturing and production planning.
 
 💻 My technical skills include Python, SQL and Looker Studio. I am currently incorporating knowledge about GIT and Machine Learning. 
 I believe in the power of continuous learning and enjoy challenging myself with exciting projects.
@@ -21,8 +20,7 @@ Let's connect and embark on a journey of innovation together!
 👋 ¡Hola, soy @EileenCorbalan!
 
 👀 Soy una ávida aprendiz y me apasiona explorar el fascinante mundo de la tecnología. 
-Como futura Ingeniera Industrial, mis intereses abarcan varios campos, incluyendo la ciencia de datos, la
-eficiencia energética y de recursos renovables, fabricación y planificación de la producción.
+Como futura Ingeniera Industrial, me interesa aplicar la ciencia de datos a varios campos, incluyendo la eficiencia energética y de recursos renovables, la fabricación y la planificación de la producción.
 
 💻 Mis habilidades técnicas incluyen Python, SQL y Looker Studio. Actualmente estoy incorporando conocimientos sobre GIT y Machine Learning. 
 Creo en el poder del aprendizaje continuo y disfruto desafiándome con proyectos emocionantes.
