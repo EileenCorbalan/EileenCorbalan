@@ -13,7 +13,7 @@ If you have an interesting project or need a hand, I'm here!
 
 🏋🏼‍♀️ I think it is essential to balance work and personal life, so I reserve part of my time to cook healthy meals, work out and spend time with loved ones. 
 
-💌 You can contact me by email at eileenv.corbalan@hotmail.com or via Linkedin https://www.linkedin.com/in/eileen-corbalan-ingenieria-industrial/ 
+💌 You can contact me by email at eileenv.corbalan@hotmail.com or via Linkedin https://www.linkedin.com/in/eileen-corbalan/
 Let's connect and embark on a journey of innovation together!
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,7 +32,7 @@ Si tienes un proyecto interesante o necesitas ayuda, ¡acá estoy!
 
 🏋🏼‍♀️ Creo que es esencial equilibrar la vida laboral y personal, por lo que reservo parte de mi tiempo para cocinar comidas saludables, hacer ejercicio y pasar tiempo con mis seres queridos. 
 
-💌 Podes contactar conmigo por email en eileenv.corbalan@hotmail.com o a través de Linkedin https://www.linkedin.com/in/eileen-corbalan-ingenieria-industrial/ 
+💌 Podes contactar conmigo por email en eileenv.corbalan@hotmail.com o a través de Linkedin https://www.linkedin.com/in/eileen-corbalan/
 ¡Conectemos y embarquémonos juntos en un viaje de innovación!
 
 <!---
