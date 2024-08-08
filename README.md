@@ -1,26 +1,6 @@
-👋 Hi, I'm @EileenCorbalan!
-
-👀 I am an avid learner and am passionate about exploring the fascinating world of technology. 
-As a future Industrial Engineer, I am interested in applying data science to various fields.
-
-💻 My technical skills include Python, SQL and Looker Studio. I am currently incorporating knowledge about GIT and Machine Learning. 
-I believe in the power of continuous learning and enjoy challenging myself with exciting projects.
-
-👩🏼‍💼 My previous work experiences nurtured me with soft skills such as teamwork, problem solving, autonomy and analytical thinking. 
-
-💞️ I actively seek opportunities to collaborate on projects that can have a positive impact on society.
-If you have an interesting project or need a hand, I'm here!
-
-🏋🏼‍♀️ I think it is essential to balance work and personal life, so I reserve part of my time to cook healthy meals, work out and spend time with loved ones. 
-
-💌 You can contact me by email at eileenv.corbalan@hotmail.com or via Linkedin https://www.linkedin.com/in/eileen-corbalan/
-Let's connect and embark on a journey of innovation together!
-
-------------------------------------------------------------------------------------------------------------------------------------------
 👋 ¡Hola, soy @EileenCorbalan!
 
 👀 Soy una ávida aprendiz y me apasiona explorar el fascinante mundo de la tecnología. 
-Como futura Ingeniera Industrial, me interesa aplicar la ciencia de datos a varios campos.
 
 💻 Mis habilidades técnicas incluyen Python, SQL y Looker Studio. Actualmente estoy incorporando conocimientos sobre GIT y Machine Learning. 
 Creo en el poder del aprendizaje continuo y disfruto desafiándome con proyectos emocionantes.
